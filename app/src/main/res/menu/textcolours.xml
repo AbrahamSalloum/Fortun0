@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tdef_id" android:title="Default Text"/>
+    <item android:id="@+id/tblack_id" android:title="Black"/>
+    <item android:id="@+id/twhite_id" android:title="White"/>
+    <item android:id="@+id/tred_id" android:title="Red"/>
+    <item android:id="@+id/tgreen_id" android:title="Green"/>
+    <item android:id="@+id/tblue_id" android:title="Blue"/>
+    <item android:id="@+id/tgrey_id" android:title="Grey"/>
+
+
+</menu>

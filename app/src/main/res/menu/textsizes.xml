@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/size18_id" android:title="18sp"/>
+    <item android:id="@+id/size20_id" android:title="20sp"/>
+    <item android:id="@+id/size22_id" android:title="22sp"/>
+    <item android:id="@+id/size24_id" android:title="24sp"/>
+    <item android:id="@+id/size26_id" android:title="26sp"/>
+    <item android:id="@+id/size28_id" android:title="28sp"/>
+    <item android:id="@+id/size30_id" android:title="30sp"/>
+    <item android:id="@+id/size32_id" android:title="32sp"/>
+
+</menu>
